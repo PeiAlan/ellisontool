@@ -38,7 +38,7 @@
 ```pom
 <dependency>
     <groupId>com.github.PeiAlan</groupId>
-    <artifactId>EllisonTool</artifactId>
+    <artifactId>ellisontool</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
