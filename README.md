@@ -18,11 +18,6 @@
 - Email工具类（EllisonSendMailUtil.java）
 - String工具类（EllisonStringUtil.java）
 
-### 线程使用相关配置类
-- 线程Executor配置工具类（EllisonExecutorConfig.java）
-- ThreadFactory自定义类（EllisonThreadFactory.java）
-- ThreadPoolTaskExecutor自定义类（VisibleThreadPoolTaskExecutor.java）
-
 ## 使用方法
 ### `maven`按照下面信息加入到你的`pom.xml`文件
 #### Step1: Add the JitPack repository to your build file
